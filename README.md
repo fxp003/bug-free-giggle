@@ -1,2 +1,3 @@
 # bug-free-giggle
 This is the first program/Project/website i am going to create with GCA 
+im also curious about the liscensing and hoe no one stills my bug free giggle.....
